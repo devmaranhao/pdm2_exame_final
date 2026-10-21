@@ -1,1 +1,26 @@
-
+{
+"nomes": [
+"Agumon",
+"Greymon",
+"Plesiomon",
+"Blossomon",
+"Bakemon",
+"Wisemon",
+"Asuramon",
+"Airdramon",
+"Digitamamon",
+"Renamon"
+],
+"poderes": [
+55,
+84,
+83,
+82,
+65,
+50,
+130,
+134,
+110,
+120
+]
+}
